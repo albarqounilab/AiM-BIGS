@@ -1,16 +1,14 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# The Practical Training for the BILD Summer School (https://bild2025.github.io/)
+# The Practical Training for AiM BIGS Course Module --- recycled from the BILD Summer School (https://bild2025.github.io/)
 
-![BILD Poster](Poster.jpg)
+![AiM](avatar.png)
 
 ## Outline
 1. DataLoader
 2. CNN Classification
 3. Segmentation
 4. Quality Control
-5. NVIDIA Session
-6. 
 
 ## Datasets
 - 
